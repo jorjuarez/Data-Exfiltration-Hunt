@@ -2,7 +2,7 @@
 
 ### 1. Project Scenario & Objective
 
-This [project simulates](https://github.com/jorjuarez/Cybersecurity-Portfolio-Public/tree/main/Threat%20Hunt%3A%20Data%20Exfiltration%20by%20a%20Disgruntled%20Employee#project-appendix-simulating-data-exfiltration) a threat hunt for a potential insider threat.
+This project simulates a threat hunt for a potential insider threat. (Full technical details for the simulation can be viewed in the [Project Appendix](https://github.com/jorjuarez/Cybersecurity-Portfolio-Public/tree/main/Threat%20Hunt%3A%20Data%20Exfiltration%20by%20a%20Disgruntled%20Employee#project-appendix-simulating-data-exfiltration)).
 
 * **Scenario:** A high-risk employee, "John Doe" (account: `analyst1`), was recently put on a performance improvement plan (PIP). Management raised concerns that this employee might try to steal proprietary data from their corporate device (`arguswinten`) before resigning.
 * **Objective:** Proactively hunt for and investigate `analyst1`'s on-device activities to determine if any data collection or exfiltration is taking place, and respond accordingly using the NIST 800-61 framework.
